@@ -27,8 +27,3 @@ class Numerator
     end
   end
 end
-
-
-
-#template = "The quick brown %{animal} %{action} over the lazy dog"
-#puts template % variables
